@@ -18,7 +18,7 @@ public class Factory {
     public void printAllData(){
         for (Car car :
                 cars) {
-
+//
                 System.out.println("\n"+car.producent.name+" "+car.producent.model+", skrzynia automatyczna: "+car.isAutomaticGear+", segment: "+car.segment+
                         ", wymiary: wysokość "+car.dimensions.high+", szerokość "+car.dimensions.width+", pojemność bagażnika "+car.dimensions.trankCapacity+" litrów,"+
                         "\nKraje sprzedaży: ");
