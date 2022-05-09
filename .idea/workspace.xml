@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d71b67d-0af4-4716-966e-7cbb30d2ec01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Homework/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Homework/Country.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Homework/Dimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Homework/Ex_Homework_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Homework/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_Homework/Producent.java" afterDir="false" />
-    </list>
+    <list default="true" id="8d71b67d-0af4-4716-966e-7cbb30d2ec01" name="Changes" comment="Homework implementation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +61,35 @@
       <option name="presentableId" value="Default" />
       <updated>1652088237508</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework implementation">
+      <created>1652105076883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652105076883</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework implementation">
+      <created>1652105328701</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652105328703</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework implementation">
+      <created>1652105391638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652105391638</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework implementation">
+      <created>1652105410542</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652105410542</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework implementation" />
   </component>
 </project>
