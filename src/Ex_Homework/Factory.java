@@ -18,7 +18,6 @@ public class Factory {
     public void printAllData(){
         for (Car car :
                 cars) {
-//
                 System.out.println("\n"+car.producent.name+" "+car.producent.model+", skrzynia automatyczna: "+car.isAutomaticGear+", segment: "+car.segment+
                         ", wymiary: wysokość "+car.dimensions.high+", szerokość "+car.dimensions.width+", pojemność bagażnika "+car.dimensions.trankCapacity+" litrów,"+
                         "\nKraje sprzedaży: ");
@@ -30,12 +29,14 @@ public class Factory {
     }
 
     public void printCountryNameFor(String producentName, boolean isAutomaticGear, int tankCapacity) {
+        System.out.println("\nProducent name: "+producentName+"\nIs automatic Gear: "+isAutomaticGear+"\nTank capacity: "+tankCapacity+
+                "\nCountries of sale: ");
         for (Car car :
                 cars) {
             if(car.getProducent().getName()==producentName && car.isAutomaticGear==isAutomaticGear && car.getDimensions().trankCapacity ==tankCapacity) {
                 for (Country country :
-                        car.countriesOfSale) {
-                    System.out.println(country.countryName+"-"+country.countrySign);
+                        car.getCountriesOfSale()) {
+                    System.out.println(country.getCountryName()+"-"+country.getCountrySign());
                 }
             }
         }

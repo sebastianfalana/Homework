@@ -106,8 +106,7 @@ public class Ex_Homework_Main {
         factory.addCars(Mazda6);
         factory.addCars(Cooper);
 
-//        factory.printAllData();
-
+        factory.printAllData();
         factory.printCountryNameFor("Audi",true,70);
 
 
